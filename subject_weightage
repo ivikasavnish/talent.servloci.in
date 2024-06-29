@@ -1,0 +1,360 @@
+{
+  "class": [
+    {
+      "name": "Class 11",
+      "subjects": [
+        {
+          "name": "Physics",
+          "neet_weightage": "45%",
+          "iit_weightage": "30%",
+          "topics": [
+            {
+              "name": "Physical world and measurement",
+              "neet_weightage": "3%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Kinematics",
+              "neet_weightage": "2%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Laws of Motion",
+              "neet_weightage": "3%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Work, Energy, and Power",
+              "neet_weightage": "4%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Motion of System of Particles and Rigid Body",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "Gravitation",
+              "neet_weightage": "2%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Properties of Bulk Matter",
+              "neet_weightage": "5%",
+              "iit_weightage": "5%"
+            },
+            {
+              "name": "Thermodynamics",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "neet_weightage": "45%",
+          "iit_weightage": "30%",
+          "topics": [
+            {
+              "name": "Some Basic Concepts of Chemistry",
+              "neet_weightage": "2%",
+              "iit_weightage": "1%"
+            },
+            {
+              "name": "Structure of Atom",
+              "neet_weightage": "3%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Classification of Elements and Periodicity in Properties",
+              "neet_weightage": "2%",
+              "iit_weightage": "1%"
+            },
+            {
+              "name": "Chemical Bonding and Molecular Structure",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "States of Matter: Gases and Liquids",
+              "neet_weightage": "3%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Thermodynamics",
+              "neet_weightage": "4%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Equilibrium",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "neet_weightage": "10%",
+          "iit_weightage": "70%",
+          "topics": [
+            {
+              "name": "Sets and Functions",
+              "neet_weightage": "1%",
+              "iit_weightage": "5%"
+            },
+            {
+              "name": "Algebra",
+              "neet_weightage": "2%",
+              "iit_weightage": "10%"
+            },
+            {
+              "name": "Coordinate Geometry",
+              "neet_weightage": "2%",
+              "iit_weightage": "10%"
+            },
+            {
+              "name": "Calculus",
+              "neet_weightage": "5%",
+              "iit_weightage": "40%"
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "neet_weightage": "0%",
+          "iit_weightage": "0%",
+          "topics": [
+            {
+              "name": "Diversity in Living World",
+              "neet_weightage": "0%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Structural Organisation in Animals and Plants",
+              "neet_weightage": "0%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Cell Structure and Function",
+              "neet_weightage": "0%",
+              "iit_weightage": "0%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class 12",
+      "subjects": [
+        {
+          "name": "Physics",
+          "neet_weightage": "55%",
+          "iit_weightage": "40%",
+          "topics": [
+            {
+              "name": "Electrostatics",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "Current Electricity",
+              "neet_weightage": "4%",
+              "iit_weightage": "5%"
+            },
+            {
+              "name": "Magnetic Effects of Current and Magnetism",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "Electromagnetic Induction and Alternating Currents",
+              "neet_weightage": "6%",
+              "iit_weightage": "5%"
+            },
+            {
+              "name": "Electromagnetic Waves",
+              "neet_weightage": "2%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Optics",
+              "neet_weightage": "9%",
+              "iit_weightage": "8%"
+            },
+            {
+              "name": "Dual Nature of Matter and Radiation",
+              "neet_weightage": "4%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "Atoms and Nuclei",
+              "neet_weightage": "8%",
+              "iit_weightage": "8%"
+            },
+            {
+              "name": "Electronic Devices",
+              "neet_weightage": "12%",
+              "iit_weightage": "10%"
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "neet_weightage": "55%",
+          "iit_weightage": "30%",
+          "topics": [
+            {
+              "name": "Solid State",
+              "neet_weightage": "2%",
+              "iit_weightage": "1%"
+            },
+            {
+              "name": "Solutions",
+              "neet_weightage": "2%",
+              "iit_weightage": "2%"
+            },
+            {
+              "name": "Electrochemistry",
+              "neet_weightage": "3%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Chemical Kinetics",
+              "neet_weightage": "3%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Surface Chemistry",
+              "neet_weightage": "2%",
+              "iit_weightage": "1%"
+            },
+            {
+              "name": "General Principles and Processes of Isolation of Elements",
+              "neet_weightage": "2%",
+              "iit_weightage": "1%"
+            },
+            {
+              "name": "p - Block Elements",
+              "neet_weightage": "5%",
+              "iit_weightage": "4%"
+            },
+            {
+              "name": "d and f Block Elements",
+              "neet_weightage": "4%",
+              "iit_weightage": "3%"
+            },
+            {
+              "name": "Coordination Compounds",
+              "neet_weightage": "9%",
+              "iit_weightage": "7%"
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "neet_weightage": "0%",
+          "iit_weightage": "30%",
+          "topics": [
+            {
+              "name": "Vectors and 3D Geometry",
+              "neet_weightage": "0%",
+              "iit_weightage": "10%"
+            },
+            {
+              "name": "Linear Programming",
+              "neet_weightage": "0%",
+              "iit_weightage": "5%"
+            },
+            {
+              "name": "Probability",
+              "neet_weightage": "0%",
+              "iit_weightage": "15%"
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "neet_weightage": "50%",
+          "iit_weightage": "0%",
+          "topics": [
+            {
+              "name": "Reproduction in Organisms",
+              "neet_weightage": "7%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Human Reproduction",
+              "neet_weightage": "5%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Reproductive Health",
+              "neet_weightage": "2%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Principles of Inheritance and Variation",
+              "neet_weightage": "9%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Molecular Basis of Inheritance",
+              "neet_weightage": "5%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Evolution",
+              "neet_weightage": "8%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Human Health and Disease",
+              "neet_weightage": "6%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Strategies for Enhancement in Food Production",
+              "neet_weightage": "2%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Microbes in Human Welfare",
+              "neet_weightage": "2%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Biotechnology: Principles and Processes",
+              "neet_weightage": "4%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Biotechnology and its Applications",
+              "neet_weightage": "5%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Organisms and Populations",
+              "neet_weightage": "6%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Ecosystem",
+              "neet_weightage": "5%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Biodiversity and Conservation",
+              "neet_weightage": "5%",
+              "iit_weightage": "0%"
+            },
+            {
+              "name": "Environmental Issues",
+              "neet_weightage": "2%",
+              "iit_weightage": "0%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
